@@ -1,0 +1,10 @@
+C:\Users\annaw\Source\Repos\finalPA\finalPA\bin\Debug\finalPA.exe.config
+C:\Users\annaw\Source\Repos\finalPA\finalPA\bin\Debug\finalPA.exe
+C:\Users\annaw\Source\Repos\finalPA\finalPA\bin\Debug\finalPA.pdb
+C:\Users\annaw\Source\Repos\finalPA\finalPA\obj\Debug\finalPA.csprojAssemblyReference.cache
+C:\Users\annaw\Source\Repos\finalPA\finalPA\obj\Debug\finalPA.frmCWID.resources
+C:\Users\annaw\Source\Repos\finalPA\finalPA\obj\Debug\finalPA.Properties.Resources.resources
+C:\Users\annaw\Source\Repos\finalPA\finalPA\obj\Debug\finalPA.csproj.GenerateResource.cache
+C:\Users\annaw\Source\Repos\finalPA\finalPA\obj\Debug\finalPA.csproj.CoreCompileInputs.cache
+C:\Users\annaw\Source\Repos\finalPA\finalPA\obj\Debug\finalPA.exe
+C:\Users\annaw\Source\Repos\finalPA\finalPA\obj\Debug\finalPA.pdb
